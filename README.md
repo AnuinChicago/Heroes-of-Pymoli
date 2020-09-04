@@ -64,7 +64,7 @@ Total Purchase Value
 
 
 
-Most Popular Items
+##### Most Popular Items
 
 Identify the 5 most popular items by purchase count, then list (in a table):
 
@@ -77,7 +77,7 @@ Total Purchase Value
 
 
 
-Most Profitable Items
+##### Most Profitable Items
 
 Identify the 5 most profitable items by total purchase value, then list (in a table):
 
